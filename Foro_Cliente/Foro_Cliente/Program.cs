@@ -9,7 +9,7 @@ class Program
         agregarEstudiante();
         consultarEstudiantes();
         //consultarEstudiante();
-        //modificarEstudiante();
+        modificarEstudiante();
         //eliminarEstudiante();
         //consultarEstudiantesFunciones();
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dvptOpWFU8VVvMtq+oYdHTVSnlui0FTAV2XKO2Fg3cSqGH4ldD2x23oszcIp3WeB16qh+QZdBoAb6AAlf+q/g==",
+  "dgSpecHash": "5icpAlI4Ys6uGzD8TzvJxtFuChGOEjND7tVJ8FAdC2jouv4LHK9mO+Gc45MjrUVGZatCm1ZJVSvW7ul5diYdiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhonn\\source\\repos\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
+  "projectFilePath": "C:\\Users\\jhonn\\Desktop\\DAWA\\FORO_26-06-2023\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhonn\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jhonn\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

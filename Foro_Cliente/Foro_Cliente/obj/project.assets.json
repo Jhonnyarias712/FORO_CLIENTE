@@ -2996,11 +2996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhonn\\source\\repos\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
+      "projectUniqueName": "C:\\Users\\jhonn\\Desktop\\DAWA\\FORO_26-06-2023\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
       "projectName": "Foro_Cliente",
-      "projectPath": "C:\\Users\\jhonn\\source\\repos\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
+      "projectPath": "C:\\Users\\jhonn\\Desktop\\DAWA\\FORO_26-06-2023\\Foro_Cliente\\Foro_Cliente\\Foro_Cliente.csproj",
       "packagesPath": "C:\\Users\\jhonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhonn\\source\\repos\\Foro_Cliente\\Foro_Cliente\\obj\\",
+      "outputPath": "C:\\Users\\jhonn\\Desktop\\DAWA\\FORO_26-06-2023\\Foro_Cliente\\Foro_Cliente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
